@@ -1,6 +1,6 @@
 # **Project_ScholarshipEvalSystem** 
 >这个Markdown文件是写关于中南大学22级C语言课设（大作业）的更新日志  
->作者：orlenHJ 中南大学自动化院 22级  
+>作者：orlenHJ 
 >程序内容 选题6：学生奖学金评定系统  
 >难度：4/10  
 >运行环境 Visual Studio 2022
