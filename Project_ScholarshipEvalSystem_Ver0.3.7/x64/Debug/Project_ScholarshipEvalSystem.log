@@ -1,0 +1,3 @@
+﻿  System.cpp
+D:\git-resource\ShEsystem\Project_ScholarshipEvalSystem_Ver0.3.7\System.cpp(572,60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project_ScholarshipEvalSystem.vcxproj -> D:\git-resource\ShEsystem\Project_ScholarshipEvalSystem_Ver0.3.7\x64\Debug\Project_ScholarshipEvalSystem.exe
