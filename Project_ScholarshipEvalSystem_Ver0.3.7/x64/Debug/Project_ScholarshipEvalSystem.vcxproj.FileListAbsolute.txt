@@ -1,2 +1,0 @@
-D:\C#\project\Project_ScholarshipEvalSystem\x64\Debug\Project_ScholarshipEvalSystem.exe
-D:\git-resource\ShEsystem\Project_ScholarshipEvalSystem_Ver0.3.7\x64\Debug\Project_ScholarshipEvalSystem.exe

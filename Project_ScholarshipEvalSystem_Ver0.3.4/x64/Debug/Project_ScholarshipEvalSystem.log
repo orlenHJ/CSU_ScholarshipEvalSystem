@@ -1,4 +1,0 @@
-﻿  System.cpp
-D:\C#\project\Project_ScholarshipEvalSystem\System.cpp(261,10): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“double”
-D:\C#\project\Project_ScholarshipEvalSystem\System.cpp(562,60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  Project_ScholarshipEvalSystem.vcxproj -> D:\C#\project\Project_ScholarshipEvalSystem\x64\Debug\Project_ScholarshipEvalSystem.exe
